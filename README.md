@@ -59,8 +59,8 @@ The dataset, sourced from [data.gov](https://data.ct.gov), includes historical d
    ```bash
    
 ## Authors
-- **Rotem Ben Attar - Unsupervised Learning**
-- **Barak Wirzberger - Supervised Learning**
+- **Rotem Ben Attar**
+- **Barak Wirzberger**
 
 ## Acknowledgments
 Special thanks to the course lecturer Dr. Chen Hajaj for their guidance and support throughout the project and in this course.
