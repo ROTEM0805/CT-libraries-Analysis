@@ -54,10 +54,6 @@ The dataset, sourced from [data.gov](https://data.ct.gov), includes historical d
 - `notebooks/`: Jupyter notebooks for all analysis steps.
 - `README.md`: Project documentation.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   
 ## Authors
 - **Rotem Ben Attar**
 - **Barak Wirzberger**
